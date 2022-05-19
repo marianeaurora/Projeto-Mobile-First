@@ -44,3 +44,9 @@ padding-bottom: 5rem;
     border-color: var(--vermelho-forte);
     margin: 0 auto;
 }
+
+@media screen and(min-width:1024px){
+    .destaques_painel {
+        display:inline-block;
+    }
+}
